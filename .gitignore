@@ -1,0 +1,5 @@
+venv
+key.json
+.flaskenv
+__pycache__
+.pytest_cache
