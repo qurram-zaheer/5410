@@ -1,0 +1,45 @@
+[
+  {
+    "brand": "ford",
+    "model": "focus",
+    "doors": 4,
+    "size": "small",
+    "price_per_hour": 16
+  },{
+    "brand": "kia",
+    "model": "rio",
+    "doors": 4,
+    "size": "small",
+    "price_per_hour": 13.7
+  },{
+    "brand": "hyundia",
+    "model": "elantra",
+    "doors": 2,
+    "size": "medium",
+    "price_per_hour": 16.6
+  },{
+    "brand": "volkswagen",
+    "model": "jetta",
+    "doors": 4,
+    "size": "medium",
+    "price_per_hour": 17
+  },{
+    "brand": "cadillac",
+    "model": "xts",
+    "doors": 4,
+    "size": "large",
+    "price_per_hour": 28
+  },{
+    "brand": "dodge",
+    "model": "durango",
+    "doors": 4,
+    "size": "large",
+    "price_per_hour": 29
+  },{
+    "brand": "toyota",
+    "model": "rav4",
+    "doors": 4,
+    "size": "large",
+    "price_per_hour": 26
+  }
+]
